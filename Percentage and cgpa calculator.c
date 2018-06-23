@@ -21,7 +21,7 @@ int main()
 	scanf("%d",&num);
 	if(num==1)
 {
-	printf("ENTER YOUR MARKS!!!!\n[1] accounts\n\n  [2] Business\n\n [3] Economics\n\n  [4] English\n\n [5] Optional subject\n\n");
+	printf("ENTER YOUR MARKS!!!!\n[1] accounts\n\n [2] Business\n\n [3] Economics\n\n [4] English\n\n [5] Optional subject\n\n");
 	 scanf("%f %f %f %f %f",&e,&m,&ss,&s,&h);
 	      total = (e+m+ss+s+h)/5;
      printf("The percentage in all the five subject is %f \n\n",total);
